@@ -1,0 +1,19 @@
+.time-slot-form{
+    max-width: 50%;
+    margin-left: 25%;
+    padding: 30px;
+    background-color: aliceblue;
+    margin-top: 50px;
+    border-radius: 20px;
+}
+.time-slot-form form{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.time-slot-form form button{
+    height: 50px;
+    border: none;
+    box-shadow: 0 0 5px rgba(0,0,0,0.5);
+    margin-bottom: 20px;
+}
